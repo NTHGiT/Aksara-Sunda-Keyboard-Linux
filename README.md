@@ -111,7 +111,7 @@ _Basic input, Shift input, R-Alt Input, and Shift + R-Alt Input_. Using this way
 The installation is finely easy just:
 
 ```
-Download the released deb packages
+curl https://github.com/NTHGiT/Aksara-Sunda-Keyboard-Linux/releases/download/release/kaganga-sundanese-layout.deb
 ```
 and... Install
 
